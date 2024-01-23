@@ -9,7 +9,7 @@ PromGen is a command-line tool written in Go, designed to generate fully functio
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/promgen.git
+   git clone https://github.com/chrisjchandler/promgen.git
 Navigate to the PromGen directory:
 cd promgen
 Compile the program:
